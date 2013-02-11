@@ -11,7 +11,7 @@ gem 'ejs'
 
 gem 'ffaker', group: [:development, :test]
 gem 'sorcery'
-gem "active_model_serializers", :git => "git://github.com/josevalim/active_model_serializers.git"
+gem "active_model_serializers", :github => "rails-api/active_model_serializers"
 gem 'kaminari'
 gem 'sqlite3'
 

@@ -7,11 +7,11 @@ GIT
       thor (>= 0.14)
 
 GIT
-  remote: git://github.com/josevalim/active_model_serializers.git
-  revision: a2d73faa63355e897873b4813b08d2db5f4a3617
+  remote: git://github.com/rails-api/active_model_serializers.git
+  revision: 3e9b366a4531e6795b73b41e732f9db849874903
   specs:
-    active_model_serializers (0.1.0)
-      activemodel (~> 3.0)
+    active_model_serializers (0.5.2)
+      activemodel (>= 3.0)
 
 GIT
   remote: git://github.com/rails/rails.git
